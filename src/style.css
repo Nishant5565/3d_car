@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+body{
+  /* background: linear-gradient(90deg, rgb(2, 2, 2) 0%, #010c6c86 100%); */
+  background: #000;
+
+}
