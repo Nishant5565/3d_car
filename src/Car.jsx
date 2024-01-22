@@ -7,7 +7,7 @@ import { Html } from "@react-three/drei";
 export function Car() {
   const gltf = useLoader(
     GLTFLoader,
-    "../public/models/car/scene.gltf"
+    "../models/car/scene.gltf"
   );
 
   // const [rotationY, setRotationY] = useState(Math.PI); // Initial rotation at 180 degrees
